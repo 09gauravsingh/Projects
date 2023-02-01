@@ -1,0 +1,16 @@
+.SearchBox {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  height: 2rem;
+  border: 1px solid grey;
+  margin-top: 15px !important;
+  margin-bottom: 40px !important;
+}
+
+@media screen and (max-width: 600px) {
+    .SearchBox{
+        width: 70%;
+        margin-left:12px!important;
+    }
+}

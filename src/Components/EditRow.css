@@ -1,0 +1,18 @@
+.edit{
+    padding:none;
+  }
+  
+  .input-box {
+    padding:0.6rem;
+    box-shadow: #080808 0px 3px 6px ;
+    border: none;
+    border-radius: .3rem;
+    margin-bottom: 2px;
+  }
+  
+  .input-box:focus {
+    background-color: white;
+    box-shadow:#131212 0px 3px 6px ;
+  }
+  
+  
